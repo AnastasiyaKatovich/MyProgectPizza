@@ -1,9 +1,11 @@
 # RestaurantLambda
 ## RestaurantLambda
-описание проекта
-## используемые технологии
+ресторан вкусной еды
+## Texnologies
+- JS
+- Bootstrap
 - вью
-- нод
+- node
 - бутстрап
 ## информация по установке
 - git clone
