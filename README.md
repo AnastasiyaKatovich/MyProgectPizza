@@ -3,6 +3,7 @@
 ресторан вкусной еды
 ## Texnologies
 - JS
+ - vue
 - Bootstrap
 - вью
 - node
